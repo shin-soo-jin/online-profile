@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/online-profile/static/css/main.71256d77.css",
+    "main.js": "/online-profile/static/js/main.0f4ad373.js",
+    "static/media/shinsoojin_portfolio-guide.pdf": "/online-profile/static/media/shinsoojin_portfolio-guide.958110ec6459358e4c9a.pdf",
+    "static/media/shinsoojin_cover-letter.pdf": "/online-profile/static/media/shinsoojin_cover-letter.5d4d1a23ee12db74fa33.pdf",
+    "static/media/icon_react.svg": "/online-profile/static/media/icon_react.54090ea30d9fcc23b228f2336d8c6db8.svg",
+    "static/media/icon_redux.svg": "/online-profile/static/media/icon_redux.b55c94545d1c8a923d7e5fa2ebc55fc7.svg",
+    "static/media/icon_css3.svg": "/online-profile/static/media/icon_css3.1118acaf670cf1011d07ad918e3752be.svg",
+    "static/media/icon_html5.svg": "/online-profile/static/media/icon_html5.2db16b60f5996ad5e26652db4ad2d9e3.svg",
+    "static/media/icon_javascript.svg": "/online-profile/static/media/icon_javascript.1416eab7284eb567985bee347fee82ec.svg",
+    "index.html": "/online-profile/index.html",
+    "main.71256d77.css.map": "/online-profile/static/css/main.71256d77.css.map",
+    "main.0f4ad373.js.map": "/online-profile/static/js/main.0f4ad373.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71256d77.css",
+    "static/js/main.0f4ad373.js"
+  ]
+}
