@@ -1,0 +1,16 @@
+.profile {
+	ul {
+		li {
+			margin-bottom: 10px;
+			&:last-child {
+				margin-bottom: 0;
+			}
+			a {
+				font-style: italic;
+				&:hover {
+					text-decoration: underline;
+				}
+			}
+		}
+	}
+}
